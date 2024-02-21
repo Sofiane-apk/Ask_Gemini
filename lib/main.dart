@@ -3,7 +3,7 @@ import 'package:google_gemini/google_gemini.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
 
-const apiKey = "AIzaSyAQ7wKFUAt7JE7mpEhXEApW0PIYCW2iBKI";
+const apiKey = "**********************";
 void main() {
   runApp(const MyApp());
 }
